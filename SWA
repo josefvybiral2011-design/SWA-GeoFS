@@ -31,11 +31,17 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-            ],
-            "labels": [
+                {
+                    "name": "RedBull",
+                    "texture": [
+                        "",
+                        "",
+                        "https://raw.githubusercontent.com/josefvybiral2011-design/SWA-GeoFS/refs/heads/main/b737-Arizona-one.png"
+                    ],
+                    "credits": "BorecPepik"
                 "Normal map",
                 "Specular shader",
-                "https://raw.githubusercontent.com/josefvybiral2011-design/SWA-GeoFS/refs/heads/main/b737-Arizona-one.png"
+                "texture"
             ]
         },
         "6": {
