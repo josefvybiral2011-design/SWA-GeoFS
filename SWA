@@ -34,17 +34,19 @@
                 {
                     "name": "Arizona One",
                     "texture": [
+                {
+                    "name": "Arizona One",                                                    
                         "",
                         "",
                         "https://raw.githubusercontent.com/josefvybiral2011-design/SWA-GeoFS/refs/heads/main/b737-Arizona-one.png"
-                    ],
-                    "credits": "BorecPepik"
-                }
+                     ],
+                    "credits": "BorecPepik"                                                          // The creator of the livery mostly a discord or github nickname
+                }                                                   
             ],
             "labels": [
-                "Normal map",
+                "Normal map" 
                 "Specular shader",
-                "texture"
+                "Texture"
             ]
         },
         "6": {
