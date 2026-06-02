@@ -50,7 +50,7 @@
                     "credits": "BorecPepik"
                 }
              ],
-             "Labels": [
+             "labels": [
                 "Normal map",
                 "Specular shader",
                 "Texture"
